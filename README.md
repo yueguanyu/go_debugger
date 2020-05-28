@@ -20,4 +20,4 @@ func main(){
 ```
 
 output:
-[log](https://raw.githubusercontent.com/yueguanyu/go_debugger/master/log.png)
+![log](https://raw.githubusercontent.com/yueguanyu/go_debugger/master/log.png)
