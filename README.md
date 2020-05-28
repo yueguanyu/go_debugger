@@ -1,6 +1,6 @@
 # go_debugger
 
-go_debugger
+go_debugger print your debug logger according to your DEBUG environment.
 
 usage:
 
@@ -17,6 +17,13 @@ func main(){
 	debug3 := go_debugger.Debug("Prefix4")
 	debug3("test: ", []int{2, 4, 6, 7})
 }
+```
+
+launch you app
+
+```shell
+DEBUG=* go run main.go
+DEBUG=Pre* go run main.go
 ```
 
 output:
