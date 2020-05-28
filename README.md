@@ -27,4 +27,4 @@ DEBUG=Pre* go run main.go
 ```
 
 output:
-[log](https://raw.githubusercontent.com/yueguanyu/go_debugger/master/log.png)
+![log](https://raw.githubusercontent.com/yueguanyu/go_debugger/master/log.png)
