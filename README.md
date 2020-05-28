@@ -8,7 +8,7 @@ usage:
 import "github.com/yueguanyu/go_debugger"
 
 func main(){
-    debug := go_debugger.Debug("Prefix1")
+	debug := go_debugger.Debug("Prefix1")
 	debug("test: ", []int{2, 4, 6, 7})
 	debug1 := go_debugger.Debug("Prefix2")
 	debug1("test: ", []int{2, 4, 6, 7})
