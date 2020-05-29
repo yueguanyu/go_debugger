@@ -1,3 +1,3 @@
-module github.com/yueguanyu/go_debugger/v1
+module github.com/yueguanyu/go_debugger
 
 go 1.12
